@@ -1,0 +1,38 @@
+{
+   "pie":[
+      { 
+         "build_type":"",		 # Official/Unofficial/nightly/weekly
+         "build_date":"",
+		 "images":"images/rrpie 
+         "device":"",            # Device name to which device belongs
+		 "code_name":"",          # codename of the device if any 
+		 "thread_type":"",       # XDA/4PDA/MiuiForum if nothing blank
+		 "thread_link":"",        # Link of the rom thread if any else leave blank
+		 "developer_name":"",
+		 "devloper_contact":"",    # XDA profile link / telegram url (dont use @)
+		 "group_link":""            #if you want to put any group link over there
+      },
+	  {
+         "build_type":"",       # Official/Unofficial/nightly/weekly
+         "build_date":"",
+         "device":"",            # Device name to which device belongs
+		 "code_name":"",          # codename of the device if any 
+		 "thread_type":"",       # XDA/4PDA/MiuiForum if nothing blank
+		 "thread_link":"",        # Link of the rom thread if any else leave blank
+		 "developer_name":"",
+		 "devloper_contact":"",    # XDA profile link / telegram url (dont use @)
+		 "group_link":""            #if you want to put any group link over there
+      },
+	  {
+         "build_type":"",       # Official/Unofficial/nightly/weekly
+         "build_date":"",
+         "device":"",            # Device name to which device belongs
+		 "code_name":"",          # codename of the device if any 
+		 "thread_type":"",       # XDA/4PDA/MiuiForum if nothing blank
+		 "thread_link":"",        # Link of the rom thread if any else leave blank
+		 "developer_name":"",
+		 "devloper_contact":"",    # XDA profile link / telegram url (dont use @)
+		 "group_link":""            #if you want to put any group link over there
+      }
+	] 
+} 	
